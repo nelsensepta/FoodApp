@@ -1,4 +1,4 @@
-# FoodApp-RN
+# FoodApp
 
 # Installl dependencies
 
